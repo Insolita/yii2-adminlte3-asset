@@ -3,7 +3,8 @@
     "description": "AdminLTE3 asset",
     "type": "library",
     "require": {
-        "yiisoft/yii2-bootstrap4": "^1.0"
+        "yiisoft/yii2-bootstrap4": "^1.0",
+        "almasaeed2010/adminlte":   "dev-v3-dev"
     },
     "autoload": {
         "psr-4": {
