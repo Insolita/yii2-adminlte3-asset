@@ -19,6 +19,6 @@ class FontAwesome4Asset extends AssetBundle
     
     public $css
         = [
-            'css/font-awesome.min.css',
+            'css/all.min.css',
         ];
 }
